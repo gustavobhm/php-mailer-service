@@ -1,0 +1,11 @@
+[24/Jan/2019 15:27:32] (crmEmailSender) Cremesp: Informações sobre o processo de inscrição do CRM. Started mailer. ( 6 emails to be send )
+[24/Jan/2019 15:27:32] (crmEmailSender) 41 - Email has been sent to cristiane.barbosa@fundacentro.gov.br
+[24/Jan/2019 15:27:34] (crmEmailSender) 42 - Email has been sent to ademilzaaraujo@hotmail.com
+[24/Jan/2019 15:27:35] (crmEmailSender) 43 - Email has been sent to marciobraga@portalvr.com
+[24/Jan/2019 15:27:36] (crmEmailSender) 44 - Email has been sent to alcarneiro@hotmail.com
+[24/Jan/2019 15:27:37] (crmEmailSender) 45 - Email has been sent to danielladiogenes@hotmail.com
+[24/Jan/2019 15:27:39] (crmEmailSender) 46 - Email has been sent to ernst_med@hotmail.com
+[24/Jan/2019 15:27:40] (crmEmailSender) Cremesp: Informações sobre o processo de inscrição do CRM. Finalized mailer.
+
+[24/Jan/2019 15:30:05] (crmEmailSender) There are no emails to be send.
+

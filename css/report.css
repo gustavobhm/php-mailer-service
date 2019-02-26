@@ -1,0 +1,50 @@
+.div-container {
+	width: 800px;
+	margin-bottom: 1em;
+	border-bottom: 1px solid rgb(128, 128, 128, 0.5);
+}
+
+.row-logo {
+	position: relative;
+	opacity: 0.5;
+	filter: alpha(opacity = 50);
+	padding: 1em 0;
+	margin-bottom: 1em;
+	border-bottom: 1px solid rgb(128, 128, 128, 0.5);
+	margin-top: 1em;
+	border-top: 1px solid rgb(128, 128, 128, 0.5);
+}
+
+.row-select-datepicker{
+	margin-top: 2em;
+	margin-bottom: 0;
+}
+
+.a-logo {
+	width: 300px;
+}
+
+.img-logo {
+	float: right;
+}
+
+.row-chart {
+	border-bottom: 1px solid rgb(128, 128, 128, 0.5);
+}
+
+.div-select {
+	margin-top: 5px;
+}
+
+.row-search-btnExportData{
+	margin-top: 3em;
+	margin-bottom: 0;
+}
+
+.td-status-ok {
+	color: green;
+}
+
+.td-status-error {
+	color: red;
+}

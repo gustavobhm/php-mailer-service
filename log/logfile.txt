@@ -1,0 +1,283 @@
+[30/Nov/2018 10:21:05] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 10:21:05] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 10:21:06] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 10:21:07] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:21:09] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 10:21:10] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:29:29] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 10:29:29] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 10:29:30] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 10:29:31] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 10:29:32] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 10:29:33] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 10:29:36] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 10:29:36] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 10:29:37] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 10:29:38] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:29:39] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 10:29:40] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:32:07] (rodizioEmailSender) RODIZIO: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 10:32:07] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 10:32:08] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:32:09] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:32:36] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 10:32:36] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 10:32:37] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 10:32:38] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 10:41:24] (rodizioEmailSender) RODIZIO: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 10:41:24] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:41:25] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:47:08] (crmEmailSender) CRM: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 10:48:42] (crmEmailSender) CRM: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 10:48:42] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 10:48:43] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 10:48:51] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 10:48:51] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 10:48:52] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 10:48:53] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 10:48:54] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 10:48:55] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 10:48:56] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 10:48:57] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 10:48:58] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 10:48:59] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:49:00] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 10:49:01] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:50:58] (rodizioEmailSender) RODIZIO: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 10:50:58] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 10:50:59] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:51:00] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 10:56:28] (rodizioEmailSender) RODIZIO: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 10:56:28] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 10:56:29] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:02:10] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:02:10] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:02:11] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:02:12] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:02:13] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:02:14] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:02:17] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 11:02:17] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:02:18] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:02:19] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:02:20] (crmEmailSender) CRM: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 11:02:20] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:02:21] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:02:23] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 11:02:53] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 11:09:07] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 11:09:09] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 11:09:11] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 11:29:57] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:30:57] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:31:53] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:31:53] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:31:54] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:31:56] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:31:57] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:31:58] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:32:04] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 11:32:04] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:32:05] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:32:06] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:36:00] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:36:00] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 11:36:01] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 11:36:02] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 11:36:04] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 11:36:05] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:36:07] (rodizioEmailSender) RODIZIO: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 11:36:07] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 11:36:08] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 11:36:09] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:36:12] (rodizioEmailSender) RODIZIO: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 11:36:12] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 11:36:13] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:47:32] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:47:32] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:47:33] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:47:34] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:47:35] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:47:36] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:49:00] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:49:00] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:49:01] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:49:02] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:49:03] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:49:04] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:50:30] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:50:30] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:50:31] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:50:32] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:50:33] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:50:34] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:50:57] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 11:50:57] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:50:58] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:50:59] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:51:02] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:51:02] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 11:51:03] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 11:51:04] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 11:51:06] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 11:51:07] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:56:48] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:56:49] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 11:56:50] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 11:56:51] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:56:52] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:56:53] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 11:56:55] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 11:56:55] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 11:56:56] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 11:56:57] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 11:56:58] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 11:56:59] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 11:59:27] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 11:59:27] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 11:59:28] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 11:59:29] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:14:53] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:17:40] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:01] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:08] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:10] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:29] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:30] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 12:19:31] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 12:19:32] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:19:33] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:19:34] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:19:46] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:19:47] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 12:19:48] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 12:19:49] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:19:50] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 12:19:51] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:22:04] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 12:22:04] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:22:05] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:22:06] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:24:05] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:24:06] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 12:24:07] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 12:24:08] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:24:09] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:24:10] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:24:12] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 12:24:12] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:24:13] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:24:14] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:24:16] (crmEmailSender) CRM: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 12:24:16] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:24:17] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:24:18] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 12:24:46] (crmEmailSender) There are no emails to be send.
+[30/Nov/2018 12:25:23] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:25:23] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 12:25:24] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 12:25:25] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:25:27] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 12:25:28] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:25:30] (rodizioEmailSender) RODIZIO: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 12:25:30] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 12:25:31] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:25:32] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:26:16] (rodizioEmailSender) RODIZIO: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 12:26:16] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:26:17] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:26:18] (rodizioEmailSender) There are no emails to be send.
+
+[30/Nov/2018 12:26:19] (rodizioEmailSender) There are no emails to be send.
+
+[30/Nov/2018 12:26:20] (rodizioEmailSender) There are no emails to be send.
+
+[30/Nov/2018 12:26:24] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:26:24] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 12:26:25] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 12:26:26] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:26:27] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 12:26:28] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:53:51] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:53:52] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 12:53:53] (rodizioEmailSender) 8 - Email could not be sent. Mailer Error: Invalid address: gustavosantoscremesp.org.br
+[30/Nov/2018 12:53:54] (rodizioEmailSender) 9 - Email could not be sent. Mailer Error: Invalid address: égustavobhmbol.com.br
+[30/Nov/2018 12:53:55] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 12:53:56] (rodizioEmailSender) RODIZIO: Finalized mailer.
+
+[30/Nov/2018 12:53:59] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 12:53:59] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 12:54:00] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 12:54:01] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:54:02] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:54:03] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:54:06] (crmEmailSender) CRM: Started mailer. ( 2 emails to be send )
+[30/Nov/2018 12:54:06] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 12:54:07] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:54:08] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:54:14] (crmEmailSender) CRM: Started mailer. ( 1 emails to be send )
+[30/Nov/2018 12:54:14] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 12:54:15] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 12:54:18] (crmEmailSender) There are no emails to be send.
+
+[30/Nov/2018 13:01:10] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 13:01:11] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 13:01:12] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 13:01:13] (crmEmailSender) 5 - Email could not be sent. Mailer Error: Invalid address: errado5.org.br
+[30/Nov/2018 13:01:14] (crmEmailSender) 6 - Email could not be sent. Mailer Error: Invalid address: errado6
+[30/Nov/2018 13:01:15] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 13:01:49] (crmEmailSender) CRM: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 13:01:49] (crmEmailSender) 2 - Email has been sent to mayara_zanon@hotmail.com
+[30/Nov/2018 13:01:51] (crmEmailSender) 4 - Email has been sent to natysa81@gmail.com
+[30/Nov/2018 13:01:52] (crmEmailSender) 5 - Email has been sent to errado5.org.br
+[30/Nov/2018 13:01:53] (crmEmailSender) 6 - Email has been sent to errado6
+[30/Nov/2018 13:01:54] (crmEmailSender) CRM: Finalized mailer.
+
+[30/Nov/2018 13:02:02] (rodizioEmailSender) RODIZIO: Started mailer. ( 4 emails to be send )
+[30/Nov/2018 13:02:02] (rodizioEmailSender) 7 - Email has been sent to mdalanezegomes@gmail.com
+[30/Nov/2018 13:02:03] (rodizioEmailSender) 8 - Email has been sent to gustavosantoscremesp.org.br
+[30/Nov/2018 13:02:05] (rodizioEmailSender) 9 - Email has been sent to égustavobhmbol.com.br
+[30/Nov/2018 13:02:06] (rodizioEmailSender) 10 - Email has been sent to mpaletti@hotmail.com
+[30/Nov/2018 13:02:07] (rodizioEmailSender) RODIZIO: Finalized mailer.
+

@@ -1,0 +1,21 @@
+.correct {
+	color: green;
+}
+
+.error {
+	color: red;
+}
+
+h1{
+	margin: 1em auto;
+    font-size: 150%;
+    font-weight: bold;	
+}
+
+p{
+	margin: 0.5em auto;
+}
+
+body{
+	text-align: center;
+}
